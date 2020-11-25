@@ -47,10 +47,15 @@ Technologies Used:
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
 Credits:
+
+
 Content:
 
 The photos used in this site were obtained from:
 Genting Hotel Singapore (Jurong East): https://www.rwsentosa.com/-/media/project/non-gaming/rwsentosa/hotels/genting-hotel-jurong/gentinghoteljurong-exterior.jpg
+Woodgrove Primary School: https://flowxrscxnt.files.wordpress.com/2014/11/wpid-20141026_141541.jpg
+Yves Rocher: 
+Zhenghua Secondary School: https://4.bp.blogspot.com/_-DfS7n7loNE/Ry7QhiVxTsI/AAAAAAAAACc/lvT9B5ERzQ0/s320/IMG_6088.JPG
 
 
 Acknowledgements:
