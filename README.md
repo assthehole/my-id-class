@@ -11,8 +11,7 @@ I went for a more simple and minimal look to look clean but straightforward wher
 This website is basically for me to sell my strength points out so that people could hire me in roder that I could get a job and work in a firm I desire with the proper skillsets that they are interested in having. From my portfolio, they can be satisfied that who they plan on hiring would not disappoint their expectations prove that I am worth hiring as an employee.
 
 My User Stories:
-
-As a user type, I want to make a navigation, so that I can allow the viewer to access the website with ease.
+As a user type, I want to make a navigation, so that I can allow the viewer to access the website with ease. Thus, I created a menu sticky bar to let the viewer visit each and every page easily. What I only hope is that the menu sticky bar does not cover too much of the screen on a small device.
 
 Most of my wireframes are columns and my work experience wireframe has flex containers and containers that include rows and columns. 
 Some of my inspiration of my wireframes are in these hyperlinks:
@@ -47,11 +46,9 @@ Technologies Used:
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
 Credits:
-
-
 Content:
-
 The photos used in this site were obtained from:
+Fresh shop: https://i.pinimg.com/originals/c2/a0/7c/c2a07c02474b689a5bf9a5f04defd0e9.jpg
 Genting Hotel Singapore (Jurong East): https://www.rwsentosa.com/-/media/project/non-gaming/rwsentosa/hotels/genting-hotel-jurong/gentinghoteljurong-exterior.jpg
 Ngee Ann Polytechnic: https://images.app.goo.gl/dgT6ZDVR7y54MtrN8
 Woodgrove Primary School: https://flowxrscxnt.files.wordpress.com/2014/11/wpid-20141026_141541.jpg

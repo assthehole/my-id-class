@@ -138,7 +138,7 @@ img {
 #navbar {
   width: 28%;
   position: fixed;
-  height: 350px;
+  height: 250px;
   display: flex;
   padding: 3px;
   justify-content: center;
@@ -155,9 +155,9 @@ img {
   display: block;
   color: rgb(59, 56, 56);
   text-align: center;
-  padding: 15px;
+  padding: 10px;
   text-decoration: none;
-  size: 20px;
+  font-size: 13px;
 }
 
 .flex-item {
