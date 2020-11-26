@@ -94,6 +94,47 @@ img {
   margin: 0 auto;
 }
 
+.yosemite-img {
+  width: 300px;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.bangalore-img {
+  width: 200px;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.zhenghua-img {
+  width: 200px;
+  height: 150px;
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.woodgrove-img {
+  width: 200px;
+  height: 150px;
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.np-img {
+  width: 200px;
+  height: 150px;
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+}
+
+
 #navbar {
   width: 28%;
   position: fixed;
@@ -102,10 +143,10 @@ img {
   padding: 3px;
   justify-content: center;
   border-radius: 20px;
-  background-color: pink;
+  background-color:rgb(149, 175, 209);
   flex-direction: column;
   left: 1%;
-  top: 45%;
+  top: 20%;
   overflow: hidden;
   font-family: 'Rubik', sans-serif;
 }
@@ -143,16 +184,12 @@ img {
 
 p {
   font-family: 'Mukta', sans-serif;
-  display: flex;
-  justify-content: center;
   text-align: center;
-  font-size: 15pt;
+  font-size: 10pt;
   width: 100%;
   margin: 0 auto;
   color: black;
-  flex-wrap: wrap;
-  padding: 5%;
-  align-items: center;
+  padding: 3%;
 }
 
 section {
@@ -160,6 +197,7 @@ section {
   color: black;
   margin: 0 auto;
   text-align: center;
+  size: 4em;
 }
 .sectionleft {
   font-family: 'Mukta', sans-serif;
@@ -213,8 +251,8 @@ input {
 }
 
 .rightimage {
-  width: 300px;
-  height: 150px;
+  width: 400px;
+  height: 450px;
   padding: 3%;
   align-items: center;
   margin: 0 auto;
@@ -223,6 +261,15 @@ input {
 /* media query starts here */
 	/* Small devices (landscape phones, 576px and up) */
 	@media screen and (min-width: 576px) {
+    p {
+      font-family: 'Mukta', sans-serif;
+      text-align: center;
+      font-size: 10pt;
+      width: 100%;
+      margin: 0 auto;
+      color: black;
+      padding: 3%;
+    }
     #navbar {
       width: 9em;
       position: fixed;
@@ -231,7 +278,7 @@ input {
       padding: 1%;
       justify-content: center;
       border-radius: 20px;
-      background-color: pink;
+      background-color: rgb(149, 175, 209);
       flex-direction: column;
       top: 40vh;
       left: 10px;
@@ -297,6 +344,47 @@ input {
       margin: 0 auto;
     }
     
+    .zhenghua-img {
+      width: 500px;
+      height: 300px;
+      display: flex;
+      align-items: center;
+      margin: 0 auto;
+    }
+    
+    .woodgrove-img {
+      width: 500px;
+      height: 300px;
+      display: flex;
+      align-items: center;
+      margin: 0 auto;
+    }
+    
+    .np-img {
+      width: 0px;
+      height: 300px;
+      display: flex;
+      align-items: center;
+      margin: 0 auto;
+    }
+
+
+    .yosemite-img {
+      width: 300px;
+      height: 200px;
+      display: flex;
+      align-items: center;
+      margin: 0 auto;
+    }
+    
+    .bangalore-img {
+      width: 200px;
+      height: 200px;
+      display: flex;
+      align-items: center;
+      margin: 0 auto;
+    }
+    
     .flex-item {
       flex: 1 21%;
       flex-basis: 45%;
@@ -319,45 +407,53 @@ input {
       justify-content: center;
      }
 
+      
+    section {
+      font-family: 'Mukta', sans-serif;
+      color: black;
+      margin: 0 auto;
+      text-align: center;
+      size: 4em;
+    }
     .sectionleft {
-    display: flex;
-    font-family: 'Mukta', sans-serif;
-    color: black;
-    margin: 0 auto;
-    text-align: center;
-    align-items: center;
+      display: flex;
+      font-family: 'Mukta', sans-serif;
+      color: black;
+      margin: 0 auto;
+      text-align: center;
+      align-items: center;
     }
     
-  .sectionright {
-    font-family: 'Mukta', sans-serif;
-    color: black;
-    margin: 0 auto;
-    text-align: center;
-    align-items: center;
-    }
+    .sectionright {
+      font-family: 'Mukta', sans-serif;
+      color: black;
+      margin: 0 auto;
+      text-align: center;
+      align-items: center;
+      }
 
-  .topimage {
-    width: 450px;
-    height: 200px;
-    padding: 2%;
-    align-items: center;
-  }
-  
-  .leftimage {
-    width: 300px;
-    height: 150px;
-    padding: 3%;
-    align-items: center;
-  }
-  
-  .rightimage {
-    width: 300px;
-    height: 150px;
-    padding: 3%;
-    align-items: center;
-    margin: 0 auto;
-  }
-      
+    .topimage {
+      width: 450px;
+      height: 200px;
+      padding: 2%;
+      align-items: center;
+    }
+    
+    .leftimage {
+      width: 300px;
+      height: 150px;
+      padding: 3%;
+      align-items: center;
+    }
+    
+    .rightimage {
+      width: 300px;
+      height: 350px;
+      padding: 3%;
+      align-items: center;
+      margin: 0 auto;
+    }
+        
 
       
 	}
@@ -373,7 +469,7 @@ input {
       padding: 1%;
       justify-content: center;
       border-radius: 20px;
-      background-color: pink;
+      background-color:rgb(149, 175, 209);
       flex-direction: column;
       top: 40vh;
       left: 10px;
@@ -427,6 +523,47 @@ input {
       align-items: center;
       margin: 0 auto;
     }
+
+    .zhenghua-img {
+      width: 450px;
+      height: 300px;
+      display: flex;
+      align-items: center;
+      margin: 0 auto;
+    }
+    
+    .woodgrove-img {
+      width: 450px;
+      height: 300px;
+      display: flex;
+      align-items: center;
+      margin: 0 auto;
+    }
+    
+    .np-img {
+      width: 450px;
+      height: 300px;
+      display: flex;
+      align-items: center;
+      margin: 0 auto;
+    }
+
+    
+    .yosemite-img {
+      width: 300px;
+      height: 200px;
+      display: flex;
+      align-items: center;
+      margin: 0 auto;
+    }
+
+    .bangalore-img {
+      width: 200px;
+      height: 200px;
+      display: flex;
+      align-items: center;
+      margin: 0 auto;
+    }
     
     .flex-item{
       display: flex;
@@ -468,7 +605,7 @@ input {
   
     .rightimage {
       width: 300px;
-      height: 150px;
+      height: 450px;
       padding: 3%;
       align-items: center;
       margin: 0 auto;
@@ -488,7 +625,7 @@ input {
       padding: 3px;
       justify-content: center;
       border-radius: 20px;
-      background-color: pink;
+      background-color: rgb(149, 175, 209);
       flex-direction: column;
       top: 40vh;
       left: 10px;
@@ -551,7 +688,47 @@ input {
       align-items: center;
       margin: 0 auto;
     }
+
+    .zhenghua-img {
+      width: 500px;
+      height: 350px;
+      display: flex;
+      align-items: center;
+      margin: 0 auto;
+    }
     
+    .woodgrove-img {
+      width: 500px;
+      height: 300px;
+      display: flex;
+      align-items: center;
+      margin: 0 auto;
+    }
+    
+    .np-img {
+      width: 500px;
+      height: 300px;
+      display: flex;
+      align-items: center;
+      margin: 0 auto;
+    }
+    
+    
+    .yosemite-img {
+      width: 600px;
+      height: 400px;
+      display: flex;
+      align-items: center;
+      margin: 0 auto;
+    }
+
+    .bangalore-img {
+      width: 500px;
+      height: 500px;
+      display: flex;
+      align-items: center;
+      margin: 0 auto;
+    }
 
     .flex-item{
       flex: 1 46%;
@@ -569,6 +746,29 @@ input {
       flex-basis: 45%;
       flex-grow: 0;
     }
+
+    .topimage {
+      
+      width: 450px;
+      height: 250px;
+      padding: 2%;
+      align-items: center;
+    }
+
+    .leftimage {
+      
+      width: 300px;
+      height: 200px;
+      padding: 3%;
+      left: 30px;
+    }
+
+    .rightimage {
+      width: 300px;
+      height: 450px;
+      padding: 3%;
+      right: 30px;
+    }
       
   }
 
@@ -584,7 +784,7 @@ input {
       padding: 3px;
       justify-content: center;
       border-radius: 20px;
-      background-color: pink;
+      background-color: rgb(149, 175, 209);
       flex-direction: column;
       top: 40vh;
       left: 10px;
@@ -681,7 +881,7 @@ input {
     .topimage {
       
       width: 450px;
-      height: 200px;
+      height: 250px;
       padding: 2%;
       align-items: center;
     }
@@ -689,15 +889,14 @@ input {
     .leftimage {
       
       width: 300px;
-      height: 150px;
+      height: 200px;
       padding: 3%;
       left: 30px;
     }
 
     .rightimage {
-      
       width: 300px;
-      height: 150px;
+      height: 450px;
       padding: 3%;
       right: 30px;
     }
@@ -717,6 +916,30 @@ input {
       align-items: cneter;
       margin: 0 auto;
     }
+
+    .zhenghua-img {
+      width: 500px;
+      height: 350px;
+      display: flex;
+      align-items: center;
+      margin: 0 auto;
+    }
+    
+    .woodgrove-img {
+      width: 500px;
+      height: 300px;
+      display: flex;
+      align-items: center;
+      margin: 0 auto;
+    }
+    
+    .np-img {
+      width: 500px;
+      height: 300px;
+      display: flex;
+      align-items: center;
+      margin: 0 auto;
+    }    
 
     .sectionleft {
       display: flex;

@@ -53,8 +53,8 @@ Content:
 
 The photos used in this site were obtained from:
 Genting Hotel Singapore (Jurong East): https://www.rwsentosa.com/-/media/project/non-gaming/rwsentosa/hotels/genting-hotel-jurong/gentinghoteljurong-exterior.jpg
+Ngee Ann Polytechnic: https://images.app.goo.gl/dgT6ZDVR7y54MtrN8
 Woodgrove Primary School: https://flowxrscxnt.files.wordpress.com/2014/11/wpid-20141026_141541.jpg
-Yves Rocher: 
 Zhenghua Secondary School: https://4.bp.blogspot.com/_-DfS7n7loNE/Ry7QhiVxTsI/AAAAAAAAACc/lvT9B5ERzQ0/s320/IMG_6088.JPG
 
 
