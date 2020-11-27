@@ -610,6 +610,16 @@ input {
       align-items: center;
       margin: 0 auto;
     }
+
+    p {
+      font-family: 'Mukta', sans-serif;
+      text-align: center;
+      font-size: 12pt;
+      width: 100%;
+      margin: 0 auto;
+      color: black;
+      padding: 3%;
+    }
       
   }
   
@@ -768,6 +778,16 @@ input {
       height: 450px;
       padding: 3%;
       right: 30px;
+    }
+
+    p {
+      font-family: 'Mukta', sans-serif;
+      text-align: center;
+      font-size: 15pt;
+      width: 100%;
+      margin: 0 auto;
+      color: black;
+      padding: 3%;
     }
       
   }
@@ -966,7 +986,15 @@ input {
       padding: 2%;
       align-items: center;  
     }
-        
-    }
 
+    p {
+      font-family: 'Mukta', sans-serif;
+      text-align: center;
+      font-size: 17pt;
+      width: 100%;
+      margin: 0 auto;
+      color: black;
+      padding: 3%;
+    }   
+    }
   }
