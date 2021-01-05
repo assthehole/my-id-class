@@ -1,5 +1,6 @@
 My Personal Portfolio
 Github: https://github.com/assthehole/my-id-class.git
+Github page: https://assthehole.github.io/my-id-class/
 
 This portfolio consists of my homepage, interests that I like and what I like to do in my free time, my achievements that I have achieved throughout my student life, how you can contact me through social media or mail, my skillsets, my past student life and my work experience. I included a sticky navigation bar that can help the person viewing my portfolio easily access the contents with just a click of a button. I also included many pictures to make the website more visual.
 
